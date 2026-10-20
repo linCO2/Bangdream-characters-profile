@@ -1,0 +1,49 @@
+凑友希那 卡面清单（仅卡面ID > 1217；顺序同 Bestdori 卡牌栏目：ID 降序）
+合计 43 张 ／ 有卡面剧情 26 张 ／ 无剧情 17 张
+
+卡面ID	稀有度	属性	首发时间	剧情篇数	卡面名	资源名	卡面图
+90021	★★	powerful	2025-04-14（国际服）	0	Mystical Bouquet	res900021	90021_res900021_特训前_card_normal.png
+10031	★★	cool	2025-01-29（国服）	0	华雪降	bili_res021002	10031_bili_res021002_特训前_card_normal.png
+10028	★★★★★	pure	2025-01-29（国服）	2	小豆泥与蔷薇	bili_res021001	10028_bili_res021001_特训前_card_normal.png 10028_bili_res021001_特训后_card_after_training.png
+10018	★★	powerful	2023-01-22（国服）	0	断章	res021901	10018_res021901_特训前_card_normal.png
+10011	★★	happy	2021-01-01（国服）	0	誓语	res021900	10011_res021900_特训前_card_normal.png
+10001	★★	powerful	2018-10-21（国际服）	0	bilibili	res021500	10001_res021500_特训前_card_normal.png
+5002	★★	cool	2020-10-13（台服）	0	楚楚可憐	res021s01	5002_res021s01_特训前_card_normal.png
+2536	★★★★★	pure	2026-09-29（日服）	2	誰も知らない私	res021090	2536_res021090_特训前_card_normal.png 2536_res021090_特训后_card_after_training.png
+2515	★★★	pure	2026-09-10（日服）	0	猫へとまっしぐら！	res021088	2515_res021088_特训前_card_normal.png 2515_res021088_特训后_card_after_training.png
+2492	★★★★★	happy	2026-07-31（日服）	2	激闘！　真夏の決戦！	res021087	2492_res021087_特训前_card_normal.png 2492_res021087_特训后_card_after_training.png
+2464	★★★★★	pure	2026-06-10（日服）	2	今の私たちの音楽	res021086	2464_res021086_特训前_card_normal.png 2464_res021086_特训后_card_after_training.png
+2402	★★★★	powerful	2026-02-18（日服）	2	起始之弦	res021085	2402_res021085_特训前_card_normal.png 2402_res021085_特训后_card_after_training.png
+2327	★★★★★	happy	2025-11-30（日服）	2	感受交融的热度	res021084	2327_res021084_特训前_card_normal.png 2327_res021084_特训后_card_after_training.png
+2312	★★	powerful	2025-10-31（日服）	0	双星的轨迹	res021083	2312_res021083_特训前_card_normal.png
+2286	★★★★★	cool	2025-09-10（日服）	2	月光之下	res021082	2286_res021082_特训前_card_normal.png 2286_res021082_特训后_card_after_training.png
+2254	★★★★★	happy	2025-07-20（日服）	2	坚不可摧的信任	res021081	2254_res021081_特训前_card_normal.png 2254_res021081_特训后_card_after_training.png
+2195	★★	cool	2025-04-10（日服）	0	世界第一的你们	res021080	2195_res021080_特训前_card_normal.png
+2148	★★★	powerful	2025-01-31（日服）	0	专注于指尖	res021079	2148_res021079_特训前_card_normal.png 2148_res021079_特训后_card_after_training.png
+2073	★★★★★	pure	2024-10-09（日服）	2	在迷途的尽头	res021078	2073_res021078_特训前_card_normal.png 2073_res021078_特训后_card_after_training.png
+2017	★★★★★	happy	2024-07-10（日服）	2	献给身旁微笑的阳光	res021077	2017_res021077_特训前_card_normal.png 2017_res021077_特训后_card_after_training.png
+2009	★★★★	cool	2024-06-20（日服）	2	顶级拉面	res021076	2009_res021076_特训前_card_normal.png 2009_res021076_特训后_card_after_training.png
+1950	★★★★	powerful	2024-03-07（日服）	2	排山倒海一般	res021075	1950_res021075_特训前_card_normal.png 1950_res021075_特训后_card_after_training.png
+1929	★★★★★	powerful	2024-01-31（日服）	2	校园里的猫	res021074	1929_res021074_特训前_card_normal.png 1929_res021074_特训后_card_after_training.png
+1891	★★★	cool	2100-10-31（日服）	0	Voice of Creation	res021053	1891_res021053_特训前_card_normal.png 1891_res021053_特训后_card_after_training.png
+1882	★★★★★	pure	2023-12-23（日服）	0	共度甜蜜時刻	res021072	1882_res021072_特训前_card_normal.png 1882_res021072_特训后_card_after_training.png
+1876	★★★★	pure	2023-12-10（日服）	2	压抑的心情	res021071	1876_res021071_特训前_card_normal.png 1876_res021071_特训后_card_after_training.png
+1782	★★	powerful	2023-07-29（日服）	0	盛夏的门扉	res021070	1782_res021070_特训前_card_normal.png
+1730	★★★★★	cool	2023-04-29（日服）	2	应该选择的是……	res021069	1730_res021069_特训前_card_normal.png 1730_res021069_特训后_card_after_training.png
+1707	★★★	happy	2023-03-15（日服）	0	穿过招新宣传的浪潮	res021065	1707_res021065_特训前_card_normal.png 1707_res021065_特训后_card_after_training.png
+1701	★★★★	cool	2023-03-08（日服）	2	毕业	res021062	1701_res021062_特训后_card_after_training.png
+1689	★★★★	powerful	2023-02-19（日服）	2	花的名字	res021061	1689_res021061_特训前_card_normal.png 1689_res021061_特训后_card_after_training.png
+1669	★★★★	cool	2022-12-31（日服）	2	将身置于皑皑白雪	res021060	1669_res021060_特训前_card_normal.png 1669_res021060_特训后_card_after_training.png
+1642	★★★	cool	2022-11-08（日服）	2	直击而来的『今天』	res021059	1642_res021059_特训前_card_normal.png 1642_res021059_特训后_card_after_training.png
+1632	★★★★	pure	2022-10-25（日服）	2	Precious birthday！	res021058	1632_res021058_特训后_card_after_training.png
+1629	★★	pure	2022-10-20（日服）	2	全新的心动	res021057	1629_res021057_特训前_card_normal.png
+1565	★★★★	happy	2100-10-31（日服）	0	4th Garupa Cup	res021021	1565_res021021_特训前_card_normal.png 1565_res021021_特训后_card_after_training.png
+1535	★★★★	powerful	2022-06-30（日服）	2	波光粼粼中的笑靥之花	res021054	1535_res021054_特训前_card_normal.png 1535_res021054_特训后_card_after_training.png
+1498	★★★	cool	2022-04-20（日服）	2	响彻，创世的歌声	res021053	1498_res021053_特训前_card_normal.png 1498_res021053_特训后_card_after_training.png
+1476	★★★★★	happy	2022-03-18（日服）	1	不变的温暖	res021052	1476_res021052_特训后_card_after_training.png
+1447	★★	pure	2022-03-11（日服）	0	环伊甸园	res021051	1447_res021051_特训前_card_normal.png
+1358	★★★★	happy	2021-11-30（日服）	2	圣夜的礼物	res021050	1358_res021050_特训前_card_normal.png 1358_res021050_特训后_card_after_training.png
+1322	★★★★	powerful	2021-10-25（日服）	2	Special birthday！	res021049	1322_res021049_特训后_card_after_training.png
+1258	★★★★	powerful	2100-10-31（日服）	0	3rd Garupa Cup	res021035	1258_res021035_特训前_card_normal.png 1258_res021035_特训后_card_after_training.png
+
+（已按需求跳过卡面ID ≤ 1217 的 39 张：81, 82, 83, 106, 147, 179, 234, 244, 256, 274, 283, 358, 366, 377, 399, 437, 485, 530, 547, 604, 656, 710, 724, 756, 758, 792, 802, 847, 857, 869, 892, 940, 958, 1039, 1093, 1107, 1138, 1178, 1217）
